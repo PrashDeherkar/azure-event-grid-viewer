@@ -19,12 +19,12 @@
         "allowedValues": [
           "F1",
           "D1",
-          "B1s",
+          "B1",
           "B2",
           "B3",
           "S1"
         ],
-        "defaultValue": "B1s",
+        "defaultValue": "B1",
         "metadata": {
           "description": "The pricing tier for the hosting plan."
         }
